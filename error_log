@@ -1,0 +1,3 @@
+[05-Feb-2020 06:21:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'pppbuluc_ikmuser'@'localhost' to database 'pppbuluc_ikmu' in /home/pppbuluc/public_html/ikm/koneksi.php on line 2
+[05-Feb-2020 06:21:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pppbuluc/public_html/ikm/hitungikm.php on line 7
+[05-Feb-2020 06:21:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/pppbuluc/public_html/ikm/hitungikm.php on line 7
